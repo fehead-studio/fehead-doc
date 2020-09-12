@@ -22,7 +22,7 @@
 ![](static/img/github_ecology/branch_1.png)
 ## 代码上传
 1. 在新建的分支下进行开发
-2. 开发完后提交`commit`，[commit格式](base.md#commit规范)
+2. 开发完后提交`commit`，[commit格式](README.md#commit规范)
 ![](static/img/github_ecology/commit.png)
 3. `push`代码，注意远程仓库为个人仓库，新建与本地分支同名的远程分支
 ![](static/img/github_ecology/push.png)
